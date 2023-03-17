@@ -1,5 +1,5 @@
 # LinearAlgebra
-This project is a part of PSI2023 Numerical Method course coordinate by Eric and Dustin. Further reading. This code works on Julia 1.8.5 `(lastest updated 03/16/23)`.
+This project is a part of PSI2023 Numerical Method course coordinate by Eric and Dustin. This code works on Julia 1.8.5 `(lastest updated 03/16/23)`.
 
 We will investigate in the following: evaluate sin(x) via polynomials using a least square approach, the error of approximate function, antisymmetric ploynomials, and derivative function.
 
